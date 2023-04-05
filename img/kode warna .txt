@@ -1,5 +1,0 @@
-76BDF0(biru)// Background
-BD0EE9(ungu)// Background
-
-5383FF(Button)
-6430E3(Font)
